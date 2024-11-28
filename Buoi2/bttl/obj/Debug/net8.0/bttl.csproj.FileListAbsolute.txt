@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\Buoi2\bttl\bin\Debug\net8.0\bttl.exe
+C:\Users\quant\source\repos\Buoi2\bttl\bin\Debug\net8.0\bttl.deps.json
+C:\Users\quant\source\repos\Buoi2\bttl\bin\Debug\net8.0\bttl.runtimeconfig.json
+C:\Users\quant\source\repos\Buoi2\bttl\bin\Debug\net8.0\bttl.dll
+C:\Users\quant\source\repos\Buoi2\bttl\bin\Debug\net8.0\bttl.pdb
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.AssemblyInfo.cs
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.sourcelink.json
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.dll
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\refint\bttl.dll
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.pdb
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\bttl.genruntimeconfig.cache
+C:\Users\quant\source\repos\Buoi2\bttl\obj\Debug\net8.0\ref\bttl.dll

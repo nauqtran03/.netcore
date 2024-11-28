@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\Buoi2\bai_2_2\bin\Debug\net8.0\bai_2_2.exe
+C:\Users\quant\source\repos\Buoi2\bai_2_2\bin\Debug\net8.0\bai_2_2.deps.json
+C:\Users\quant\source\repos\Buoi2\bai_2_2\bin\Debug\net8.0\bai_2_2.runtimeconfig.json
+C:\Users\quant\source\repos\Buoi2\bai_2_2\bin\Debug\net8.0\bai_2_2.dll
+C:\Users\quant\source\repos\Buoi2\bai_2_2\bin\Debug\net8.0\bai_2_2.pdb
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.AssemblyInfo.cs
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.sourcelink.json
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.dll
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\refint\bai_2_2.dll
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.pdb
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\bai_2_2.genruntimeconfig.cache
+C:\Users\quant\source\repos\Buoi2\bai_2_2\obj\Debug\net8.0\ref\bai_2_2.dll
