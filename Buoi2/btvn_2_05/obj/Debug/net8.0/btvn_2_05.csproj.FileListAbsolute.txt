@@ -1,0 +1,15 @@
+D:\DevMaster\Buoi2\btvn_2_05\bin\Debug\net8.0\btvn_2_05.exe
+D:\DevMaster\Buoi2\btvn_2_05\bin\Debug\net8.0\btvn_2_05.deps.json
+D:\DevMaster\Buoi2\btvn_2_05\bin\Debug\net8.0\btvn_2_05.runtimeconfig.json
+D:\DevMaster\Buoi2\btvn_2_05\bin\Debug\net8.0\btvn_2_05.dll
+D:\DevMaster\Buoi2\btvn_2_05\bin\Debug\net8.0\btvn_2_05.pdb
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.AssemblyInfoInputs.cache
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.AssemblyInfo.cs
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.csproj.CoreCompileInputs.cache
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.sourcelink.json
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.dll
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\refint\btvn_2_05.dll
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.pdb
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\btvn_2_05.genruntimeconfig.cache
+D:\DevMaster\Buoi2\btvn_2_05\obj\Debug\net8.0\ref\btvn_2_05.dll

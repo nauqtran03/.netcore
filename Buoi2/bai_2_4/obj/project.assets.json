@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quant\\source\\repos\\Buoi2\\bai_2_4\\bai_2_4.csproj",
+      "projectUniqueName": "D:\\DevMaster\\Buoi2\\bai_2_4\\bai_2_4.csproj",
       "projectName": "bai_2_4",
-      "projectPath": "C:\\Users\\quant\\source\\repos\\Buoi2\\bai_2_4\\bai_2_4.csproj",
+      "projectPath": "D:\\DevMaster\\Buoi2\\bai_2_4\\bai_2_4.csproj",
       "packagesPath": "C:\\Users\\quant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quant\\source\\repos\\Buoi2\\bai_2_4\\obj\\",
+      "outputPath": "D:\\DevMaster\\Buoi2\\bai_2_4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

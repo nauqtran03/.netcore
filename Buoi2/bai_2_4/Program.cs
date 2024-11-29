@@ -1,4 +1,6 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Text;
+
 
 namespace bai_2_4
 {
@@ -7,19 +9,26 @@ namespace bai_2_4
         static void Main(string[] args)
         {
             
+            bool check_i;
             int n = 100;
             for (int i = 2; i<n; i++)
             {
-                for (int j = i; j <= Math.Sqrt(i); j++)
+                check_i = true;
+                for (int j = 2; j< i/2; j++)
                 {
-                    if (j % i == 0)
+                    if (i % j  == 0)
                     {
-                        Console.WriteLine(i);
+                        check_i = false;
+                        break;
                     }
                     
                 }
-                
+                if (check_i)
+                {
+                    Console.Write($" {i}");
+                }
             }
+            Console.ReadLine();
         }
     }
 }

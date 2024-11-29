@@ -1,0 +1,15 @@
+D:\DevMaster\Buoi2\bai_2_6\bin\Debug\net8.0\bai_2_6.exe
+D:\DevMaster\Buoi2\bai_2_6\bin\Debug\net8.0\bai_2_6.deps.json
+D:\DevMaster\Buoi2\bai_2_6\bin\Debug\net8.0\bai_2_6.runtimeconfig.json
+D:\DevMaster\Buoi2\bai_2_6\bin\Debug\net8.0\bai_2_6.dll
+D:\DevMaster\Buoi2\bai_2_6\bin\Debug\net8.0\bai_2_6.pdb
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.AssemblyInfoInputs.cache
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.AssemblyInfo.cs
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.csproj.CoreCompileInputs.cache
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.sourcelink.json
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.dll
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\refint\bai_2_6.dll
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.pdb
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\bai_2_6.genruntimeconfig.cache
+D:\DevMaster\Buoi2\bai_2_6\obj\Debug\net8.0\ref\bai_2_6.dll
