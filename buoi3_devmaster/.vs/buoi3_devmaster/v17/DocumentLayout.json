@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevMaster\\buoi3_devmaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\testtinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\testtinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|d:\\devmaster\\buoi3_devmaster\\bai_3\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08057352-763F-4984-9824-C2B11C8E3DBE}|bai_3\\bai_3.csproj|solutionrelative:bai_3\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Number.cs",
+              "RelativeDocumentMoniker": "bai_3\\Number.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Number.cs",
+              "RelativeToolTip": "bai_3\\Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:47:50.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestTinh.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\TestTinh.cs",
+              "RelativeDocumentMoniker": "bai_3\\TestTinh.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\TestTinh.cs",
+              "RelativeToolTip": "bai_3\\TestTinh.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:41:38.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Student.cs",
+              "RelativeDocumentMoniker": "bai_3\\Student.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Student.cs",
+              "RelativeToolTip": "bai_3\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:27:00.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Employee.cs",
+              "RelativeDocumentMoniker": "bai_3\\Employee.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Employee.cs",
+              "RelativeToolTip": "bai_3\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:56:04.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Category.cs",
+              "RelativeDocumentMoniker": "bai_3\\Category.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Category.cs",
+              "RelativeToolTip": "bai_3\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:27:26.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Program.cs",
+              "RelativeDocumentMoniker": "bai_3\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Program.cs",
+              "RelativeToolTip": "bai_3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:27:09.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

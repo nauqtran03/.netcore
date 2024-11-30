@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\bin\Debug\net8.0\bai_3.exe
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\bin\Debug\net8.0\bai_3.deps.json
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\bin\Debug\net8.0\bai_3.runtimeconfig.json
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\bin\Debug\net8.0\bai_3.dll
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\bin\Debug\net8.0\bai_3.pdb
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.AssemblyInfo.cs
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.sourcelink.json
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.dll
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\refint\bai_3.dll
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.pdb
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\bai_3.genruntimeconfig.cache
+C:\Users\quant\source\repos\buoi3_devmaster\bai_3\obj\Debug\net8.0\ref\bai_3.dll
