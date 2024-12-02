@@ -1,0 +1,15 @@
+D:\DevMaster\buoi3_devmaster\bttl_3_4\bin\Debug\net8.0\bttl_3_4.exe
+D:\DevMaster\buoi3_devmaster\bttl_3_4\bin\Debug\net8.0\bttl_3_4.deps.json
+D:\DevMaster\buoi3_devmaster\bttl_3_4\bin\Debug\net8.0\bttl_3_4.runtimeconfig.json
+D:\DevMaster\buoi3_devmaster\bttl_3_4\bin\Debug\net8.0\bttl_3_4.dll
+D:\DevMaster\buoi3_devmaster\bttl_3_4\bin\Debug\net8.0\bttl_3_4.pdb
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.AssemblyInfoInputs.cache
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.AssemblyInfo.cs
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.csproj.CoreCompileInputs.cache
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.sourcelink.json
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.dll
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\refint\bttl_3_4.dll
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.pdb
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\bttl_3_4.genruntimeconfig.cache
+D:\DevMaster\buoi3_devmaster\bttl_3_4\obj\Debug\net8.0\ref\bttl_3_4.dll
