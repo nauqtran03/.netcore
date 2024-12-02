@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\DevMaster\\buoi3_devmaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|solutionrelative:bttl_3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0512BD3B-ED1B-4372-8C7D-7B76AE8A2999}|btvn_3_2\\btvn_3_2.csproj|d:\\devmaster\\buoi3_devmaster\\btvn_3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512BD3B-ED1B-4372-8C7D-7B76AE8A2999}|btvn_3_2\\btvn_3_2.csproj|solutionrelative:btvn_3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_4\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|solutionrelative:bttl_3_4\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0512BD3B-ED1B-4372-8C7D-7B76AE8A2999}|btvn_3_2\\btvn_3_2.csproj|d:\\devmaster\\buoi3_devmaster\\btvn_3_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512BD3B-ED1B-4372-8C7D-7B76AE8A2999}|btvn_3_2\\btvn_3_2.csproj|solutionrelative:btvn_3_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B10E7105-DD62-4682-8EF1-A8453AE5FD79}|bttl_3_2\\bttl_3_2.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_2\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{B10E7105-DD62-4682-8EF1-A8453AE5FD79}|bttl_3_2\\bttl_3_2.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10E7105-DD62-4682-8EF1-A8453AE5FD79}|bttl_3_2\\bttl_3_2.csproj|solutionrelative:bttl_3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFF5DB4-0EF5-43E7-A52F-FA63FC07D482}|btvn_3_1\\btvn_3_1.csproj|d:\\devmaster\\buoi3_devmaster\\btvn_3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFF5DB4-0EF5-43E7-A52F-FA63FC07D482}|btvn_3_1\\btvn_3_1.csproj|solutionrelative:btvn_3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFF5DB4-0EF5-43E7-A52F-FA63FC07D482}|btvn_3_1\\btvn_3_1.csproj|d:\\devmaster\\buoi3_devmaster\\btvn_3_1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFF5DB4-0EF5-43E7-A52F-FA63FC07D482}|btvn_3_1\\btvn_3_1.csproj|solutionrelative:btvn_3_1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_4\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|solutionrelative:bttl_3_4\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BDF757-EB34-48CB-8216-7739216B88D8}|bttl_3_4\\bttl_3_4.csproj|solutionrelative:bttl_3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E47F50D-ABA0-49C9-89DC-A85B7AFD1B87}|bttl_3_3\\bttl_3_3.csproj|solutionrelative:bttl_3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652C9B58-1075-46F0-B5DC-5604ED30EF83}|bttl_3_1\\bttl_3_1.csproj|d:\\devmaster\\buoi3_devmaster\\bttl_3_1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,8 +105,64 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_2\\Book.cs",
+              "RelativeDocumentMoniker": "btvn_3_2\\Book.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_2\\Book.cs",
+              "RelativeToolTip": "btvn_3_2\\Book.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:50:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_2\\Program.cs",
+              "RelativeDocumentMoniker": "btvn_3_2\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_2\\Program.cs*",
+              "RelativeToolTip": "btvn_3_2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:50:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_1\\Employee.cs",
+              "RelativeDocumentMoniker": "btvn_3_1\\Employee.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_1\\Employee.cs",
+              "RelativeToolTip": "btvn_3_1\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:40:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_1\\Program.cs",
+              "RelativeDocumentMoniker": "btvn_3_1\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\btvn_3_1\\Program.cs",
+              "RelativeToolTip": "btvn_3_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:39:48.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Utility.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_4\\Utility.cs",
               "RelativeDocumentMoniker": "bttl_3_4\\Utility.cs",
@@ -103,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_4\\Program.cs",
               "RelativeDocumentMoniker": "bttl_3_4\\Program.cs",
@@ -115,12 +187,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Studentmodel.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_3\\Studentmodel.cs",
               "RelativeDocumentMoniker": "bttl_3_3\\Studentmodel.cs",
@@ -128,12 +196,11 @@
               "RelativeToolTip": "bttl_3_3\\Studentmodel.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwDQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:35:38.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:35:38.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_3\\Student.cs",
               "RelativeDocumentMoniker": "bttl_3_3\\Student.cs",
@@ -146,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_3\\Program.cs",
               "RelativeDocumentMoniker": "bttl_3_3\\Program.cs",
@@ -154,25 +221,24 @@
               "RelativeToolTip": "bttl_3_3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:31:49.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:31:49.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_2\\Contact.cs",
               "RelativeDocumentMoniker": "bttl_3_2\\Contact.cs",
               "ToolTip": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_2\\Contact.cs",
               "RelativeToolTip": "bttl_3_2\\Contact.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwD4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwD4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:16:47.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_2\\Program.cs",
               "RelativeDocumentMoniker": "bttl_3_2\\Program.cs",
@@ -185,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_1\\Car.cs",
               "RelativeDocumentMoniker": "bttl_3_1\\Car.cs",
@@ -193,12 +259,11 @@
               "RelativeToolTip": "bttl_3_1\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:09:21.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:09:21.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bttl_3_1\\Program.cs",
               "RelativeDocumentMoniker": "bttl_3_1\\Program.cs",
@@ -206,12 +271,11 @@
               "RelativeToolTip": "bttl_3_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:09:10.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:09:10.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Number.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Number.cs",
               "RelativeDocumentMoniker": "bai_3\\Number.cs",
@@ -223,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "TestTinh.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\TestTinh.cs",
               "RelativeDocumentMoniker": "bai_3\\TestTinh.cs",
@@ -235,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Student.cs",
               "RelativeDocumentMoniker": "bai_3\\Student.cs",
@@ -247,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Employee.cs",
               "RelativeDocumentMoniker": "bai_3\\Employee.cs",
@@ -255,12 +319,11 @@
               "RelativeToolTip": "bai_3\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:56:04.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:56:04.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Category.cs",
               "RelativeDocumentMoniker": "bai_3\\Category.cs",
@@ -272,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi3_devmaster\\bai_3\\Program.cs",
               "RelativeDocumentMoniker": "bai_3\\Program.cs",
