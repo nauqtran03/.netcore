@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\Buoi6\Mang\bin\Debug\net8.0\Mang.exe
+C:\Users\quant\source\repos\Buoi6\Mang\bin\Debug\net8.0\Mang.deps.json
+C:\Users\quant\source\repos\Buoi6\Mang\bin\Debug\net8.0\Mang.runtimeconfig.json
+C:\Users\quant\source\repos\Buoi6\Mang\bin\Debug\net8.0\Mang.dll
+C:\Users\quant\source\repos\Buoi6\Mang\bin\Debug\net8.0\Mang.pdb
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.AssemblyInfo.cs
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.sourcelink.json
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.dll
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\refint\Mang.dll
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.pdb
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\Mang.genruntimeconfig.cache
+C:\Users\quant\source\repos\Buoi6\Mang\obj\Debug\net8.0\ref\Mang.dll
