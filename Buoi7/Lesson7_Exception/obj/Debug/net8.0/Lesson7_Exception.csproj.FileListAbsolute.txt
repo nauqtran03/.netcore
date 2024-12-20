@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\bin\Debug\net8.0\Lesson7_Exception.exe
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\bin\Debug\net8.0\Lesson7_Exception.deps.json
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\bin\Debug\net8.0\Lesson7_Exception.runtimeconfig.json
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\bin\Debug\net8.0\Lesson7_Exception.dll
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\bin\Debug\net8.0\Lesson7_Exception.pdb
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.AssemblyInfo.cs
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.sourcelink.json
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.dll
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\refint\Lesson7_Exception.dll
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.pdb
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\Lesson7_Exception.genruntimeconfig.cache
+C:\Users\quant\source\repos\Buoi7\Lesson7_Exception\obj\Debug\net8.0\ref\Lesson7_Exception.dll

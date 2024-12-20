@@ -1,0 +1,15 @@
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.AssemblyInfo.cs
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.sourcelink.json
+C:\Users\quant\source\repos\Buoi7\lab_7_01\bin\Debug\net8.0\lab_7_01.exe
+C:\Users\quant\source\repos\Buoi7\lab_7_01\bin\Debug\net8.0\lab_7_01.deps.json
+C:\Users\quant\source\repos\Buoi7\lab_7_01\bin\Debug\net8.0\lab_7_01.runtimeconfig.json
+C:\Users\quant\source\repos\Buoi7\lab_7_01\bin\Debug\net8.0\lab_7_01.dll
+C:\Users\quant\source\repos\Buoi7\lab_7_01\bin\Debug\net8.0\lab_7_01.pdb
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.dll
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\refint\lab_7_01.dll
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.pdb
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\lab_7_01.genruntimeconfig.cache
+C:\Users\quant\source\repos\Buoi7\lab_7_01\obj\Debug\net8.0\ref\lab_7_01.dll

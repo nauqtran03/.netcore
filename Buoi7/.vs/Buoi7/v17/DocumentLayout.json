@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Buoi7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B03AD3-179C-4A2E-B907-DFE184629875}|lab_7_01\\lab_7_01.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_01\\dongvat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B03AD3-179C-4A2E-B907-DFE184629875}|lab_7_01\\lab_7_01.csproj|solutionrelative:lab_7_01\\dongvat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B03AD3-179C-4A2E-B907-DFE184629875}|lab_7_01\\lab_7_01.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B03AD3-179C-4A2E-B907-DFE184629875}|lab_7_01\\lab_7_01.csproj|solutionrelative:lab_7_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lesson7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|solutionrelative:lesson7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D5A365-3B45-4C18-8163-FE70FD81D694}|lab_7_4\\lab_7_4.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D5A365-3B45-4C18-8163-FE70FD81D694}|lab_7_4\\lab_7_4.csproj|solutionrelative:lab_7_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D91537B-1917-43E3-B530-20CE97BDF3AF}|lab_7_3\\lab_7_3.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D91537B-1917-43E3-B530-20CE97BDF3AF}|lab_7_3\\lab_7_3.csproj|solutionrelative:lab_7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438ECAE8-322B-45CA-99A1-FA715B9AD88B}|lab_7_2\\lab_7_2.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438ECAE8-322B-45CA-99A1-FA715B9AD88B}|lab_7_2\\lab_7_2.csproj|solutionrelative:lab_7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438ECAE8-322B-45CA-99A1-FA715B9AD88B}|lab_7_2\\lab_7_2.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438ECAE8-322B-45CA-99A1-FA715B9AD88B}|lab_7_2\\lab_7_2.csproj|solutionrelative:lab_7_2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2EFF5B-AE27-4E70-B03B-7F7D9C618E8D}|lab_7_1\\lab_7_1.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2EFF5B-AE27-4E70-B03B-7F7D9C618E8D}|lab_7_1\\lab_7_1.csproj|solutionrelative:lab_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2EFF5B-AE27-4E70-B03B-7F7D9C618E8D}|lab_7_1\\lab_7_1.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lab_7_1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2EFF5B-AE27-4E70-B03B-7F7D9C618E8D}|lab_7_1\\lab_7_1.csproj|solutionrelative:lab_7_1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C50B4-FC9A-4CAE-B0AF-AFE1926E403C}|Lesson7_Exception\\Lesson7_Exception.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lesson7_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C50B4-FC9A-4CAE-B0AF-AFE1926E403C}|Lesson7_Exception\\Lesson7_Exception.csproj|solutionrelative:lesson7_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lesson7\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|solutionrelative:lesson7\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|c:\\users\\quant\\source\\repos\\buoi7\\lesson7\\lesson7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0F6B901-7A1B-4876-A48F-392CF90C08DE}|Lesson7\\Lesson7.csproj|solutionrelative:lesson7\\lesson7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DongVat.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_01\\DongVat.cs",
+              "RelativeDocumentMoniker": "lab_7_01\\DongVat.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_01\\DongVat.cs",
+              "RelativeToolTip": "lab_7_01\\DongVat.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:10:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_01\\Program.cs",
+              "RelativeDocumentMoniker": "lab_7_01\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_01\\Program.cs",
+              "RelativeToolTip": "lab_7_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:07:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_4\\Program.cs",
+              "RelativeDocumentMoniker": "lab_7_4\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_4\\Program.cs",
+              "RelativeToolTip": "lab_7_4\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:57:00.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_3\\Program.cs",
+              "RelativeDocumentMoniker": "lab_7_3\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_3\\Program.cs",
+              "RelativeToolTip": "lab_7_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:46:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_2\\House.cs",
+              "RelativeDocumentMoniker": "lab_7_2\\House.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_2\\House.cs",
+              "RelativeToolTip": "lab_7_2\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:35:06.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab_7_2\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_2\\Program.cs",
+              "RelativeToolTip": "lab_7_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:34:37.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_1\\Store.cs",
+              "RelativeDocumentMoniker": "lab_7_1\\Store.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_1\\Store.cs",
+              "RelativeToolTip": "lab_7_1\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:26:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab_7_1\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\lab_7_1\\Program.cs",
+              "RelativeToolTip": "lab_7_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:21:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7_Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7_Exception\\Program.cs",
+              "RelativeToolTip": "Lesson7_Exception\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:23:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lesson7.csproj",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Lesson7.csproj",
+              "RelativeDocumentMoniker": "Lesson7\\Lesson7.csproj",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Lesson7.csproj",
+              "RelativeToolTip": "Lesson7\\Lesson7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T12:34:27.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Electronic.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Electronic.cs",
+              "RelativeDocumentMoniker": "Lesson7\\Electronic.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Electronic.cs",
+              "RelativeToolTip": "Lesson7\\Electronic.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:32:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Buoi7\\Lesson7\\Program.cs",
+              "RelativeToolTip": "Lesson7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:30:36.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
