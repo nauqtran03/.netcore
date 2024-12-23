@@ -1,0 +1,15 @@
+D:\DevMaster\buoi8\lesson_8\bin\Debug\net8.0\lesson_8.exe
+D:\DevMaster\buoi8\lesson_8\bin\Debug\net8.0\lesson_8.deps.json
+D:\DevMaster\buoi8\lesson_8\bin\Debug\net8.0\lesson_8.runtimeconfig.json
+D:\DevMaster\buoi8\lesson_8\bin\Debug\net8.0\lesson_8.dll
+D:\DevMaster\buoi8\lesson_8\bin\Debug\net8.0\lesson_8.pdb
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.AssemblyInfoInputs.cache
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.AssemblyInfo.cs
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.csproj.CoreCompileInputs.cache
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.sourcelink.json
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.dll
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\refint\lesson_8.dll
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.pdb
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\lesson_8.genruntimeconfig.cache
+D:\DevMaster\buoi8\lesson_8\obj\Debug\net8.0\ref\lesson_8.dll
