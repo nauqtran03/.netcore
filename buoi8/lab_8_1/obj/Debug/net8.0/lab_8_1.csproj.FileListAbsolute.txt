@@ -1,0 +1,15 @@
+D:\DevMaster\buoi8\lab_8_1\bin\Debug\net8.0\lab_8_1.exe
+D:\DevMaster\buoi8\lab_8_1\bin\Debug\net8.0\lab_8_1.deps.json
+D:\DevMaster\buoi8\lab_8_1\bin\Debug\net8.0\lab_8_1.runtimeconfig.json
+D:\DevMaster\buoi8\lab_8_1\bin\Debug\net8.0\lab_8_1.dll
+D:\DevMaster\buoi8\lab_8_1\bin\Debug\net8.0\lab_8_1.pdb
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.AssemblyInfoInputs.cache
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.AssemblyInfo.cs
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.csproj.CoreCompileInputs.cache
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.sourcelink.json
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.dll
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\refint\lab_8_1.dll
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.pdb
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\lab_8_1.genruntimeconfig.cache
+D:\DevMaster\buoi8\lab_8_1\obj\Debug\net8.0\ref\lab_8_1.dll

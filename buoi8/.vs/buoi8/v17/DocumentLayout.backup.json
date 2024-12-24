@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\DevMaster\\buoi8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|d:\\devmaster\\buoi8\\lab_8_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|solutionrelative:lab_8_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|d:\\devmaster\\buoi8\\lab_8_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|solutionrelative:lab_8_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8209564-53E4-4746-86C3-D09B469BA2E7}|lab_8_1\\lab_8_1.csproj|d:\\devmaster\\buoi8\\lab_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8209564-53E4-4746-86C3-D09B469BA2E7}|lab_8_1\\lab_8_1.csproj|solutionrelative:lab_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9611DBF2-ADE9-4923-B795-B9DD60133C29}|lesson_8\\lesson_8.csproj|d:\\devmaster\\buoi8\\lesson_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9611DBF2-ADE9-4923-B795-B9DD60133C29}|lesson_8\\lesson_8.csproj|solutionrelative:lesson_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,12 +61,90 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_3\\Film.cs",
+              "RelativeDocumentMoniker": "lab_8_3\\Film.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_3\\Film.cs",
+              "RelativeToolTip": "lab_8_3\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:13:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_3\\Program.cs",
+              "RelativeDocumentMoniker": "lab_8_3\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_3\\Program.cs",
+              "RelativeToolTip": "lab_8_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:13:09.141Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_2\\Order.cs",
+              "RelativeDocumentMoniker": "lab_8_2\\Order.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_2\\Order.cs",
+              "RelativeToolTip": "lab_8_2\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:03:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_2\\Customer.cs",
+              "RelativeDocumentMoniker": "lab_8_2\\Customer.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_2\\Customer.cs",
+              "RelativeToolTip": "lab_8_2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:03:03.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab_8_2\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_2\\Program.cs",
+              "RelativeToolTip": "lab_8_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:02:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab_8_1\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_1\\Program.cs",
+              "RelativeToolTip": "lab_8_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:47:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lesson_8\\Customer.cs",
               "RelativeDocumentMoniker": "lesson_8\\Customer.cs",
@@ -50,18 +152,17 @@
               "RelativeToolTip": "lesson_8\\Customer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:36:05.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:36:05.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lesson_8\\Program.cs",
               "RelativeDocumentMoniker": "lesson_8\\Program.cs",
-              "ToolTip": "D:\\DevMaster\\buoi8\\lesson_8\\Program.cs*",
-              "RelativeToolTip": "lesson_8\\Program.cs*",
-              "ViewState": "AgIAADEAAAAAAAAAAADwv04AAAArAAAAAAAAAA==",
+              "ToolTip": "D:\\DevMaster\\buoi8\\lesson_8\\Program.cs",
+              "RelativeToolTip": "lesson_8\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0wAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T12:35:31.81Z",
               "EditorCaption": ""
