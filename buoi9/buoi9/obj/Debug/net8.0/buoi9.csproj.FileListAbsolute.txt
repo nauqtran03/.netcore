@@ -1,0 +1,15 @@
+D:\DevMaster\buoi9\buoi9\bin\Debug\net8.0\buoi9.exe
+D:\DevMaster\buoi9\buoi9\bin\Debug\net8.0\buoi9.deps.json
+D:\DevMaster\buoi9\buoi9\bin\Debug\net8.0\buoi9.runtimeconfig.json
+D:\DevMaster\buoi9\buoi9\bin\Debug\net8.0\buoi9.dll
+D:\DevMaster\buoi9\buoi9\bin\Debug\net8.0\buoi9.pdb
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.AssemblyInfoInputs.cache
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.AssemblyInfo.cs
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.csproj.CoreCompileInputs.cache
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.sourcelink.json
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.dll
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\refint\buoi9.dll
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.pdb
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\buoi9.genruntimeconfig.cache
+D:\DevMaster\buoi9\buoi9\obj\Debug\net8.0\ref\buoi9.dll
