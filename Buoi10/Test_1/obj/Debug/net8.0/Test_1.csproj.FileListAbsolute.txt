@@ -1,0 +1,15 @@
+D:\DevMaster\Buoi10\Test_1\bin\Debug\net8.0\Test_1.exe
+D:\DevMaster\Buoi10\Test_1\bin\Debug\net8.0\Test_1.deps.json
+D:\DevMaster\Buoi10\Test_1\bin\Debug\net8.0\Test_1.runtimeconfig.json
+D:\DevMaster\Buoi10\Test_1\bin\Debug\net8.0\Test_1.dll
+D:\DevMaster\Buoi10\Test_1\bin\Debug\net8.0\Test_1.pdb
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.AssemblyInfoInputs.cache
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.AssemblyInfo.cs
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.csproj.CoreCompileInputs.cache
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.sourcelink.json
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.dll
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\refint\Test_1.dll
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.pdb
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\Test_1.genruntimeconfig.cache
+D:\DevMaster\Buoi10\Test_1\obj\Debug\net8.0\ref\Test_1.dll
