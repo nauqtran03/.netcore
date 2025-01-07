@@ -33,13 +33,13 @@ namespace Test
                 switch (option)
                 {
                     case 1:
-                        InsertStudent(studentHashtable);
+                        studentHashtable = InsertStudent( studentHashtable);
                         break;
                     case 2:
-                        DisplayStudent(studentHashtable);
+                        DisplayStudent(ref studentHashtable);
                         break;
                     case 3:
-                        CalculatteMark(studentHashtable);
+                        CalculatteMark(ref studentHashtable);
                         break;
                     case 4:
                         Console.WriteLine("Exiting....");
@@ -50,7 +50,7 @@ namespace Test
                 }
             } while (option != 4);
         }
-        static void InsertStudent (Hashtable studentHashtable)
+        static Hashtable InsertStudent ( Hashtable studentHashtable)
         {
             Student student = new Student();
             Console.Write("Nhap ID: ");
@@ -66,8 +66,9 @@ namespace Test
             student.CalAvg();
             studentHashtable[student.StudID] = student;
             Console.WriteLine("Luu thanh cong");
+            return studentHashtable;
         }
-        static void DisplayStudent(Hashtable studentHashtable)
+        static void DisplayStudent(ref Hashtable studentHashtable)
         {
             if (studentHashtable.Count == 0)
             {
@@ -81,7 +82,7 @@ namespace Test
                 }
             }
         }
-        static void CalculatteMark(Hashtable studentHashTable)
+        static void CalculatteMark(ref Hashtable studentHashTable)
         {
             if (studentHashTable.Count == 0)
             {

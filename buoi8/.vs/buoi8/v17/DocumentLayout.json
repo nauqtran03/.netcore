@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{9611DBF2-ADE9-4923-B795-B9DD60133C29}|lesson_8\\lesson_8.csproj|solutionrelative:lesson_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8209564-53E4-4746-86C3-D09B469BA2E7}|lab_8_1\\lab_8_1.csproj|d:\\devmaster\\buoi8\\lab_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8209564-53E4-4746-86C3-D09B469BA2E7}|lab_8_1\\lab_8_1.csproj|solutionrelative:lab_8_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|d:\\devmaster\\buoi8\\lab_8_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF10087C-C877-48ED-8D0E-89B375806539}|lab_8_3\\lab_8_3.csproj|solutionrelative:lab_8_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|solutionrelative:lab_8_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{899D285E-104B-4D5F-89B5-50BD48D83647}|lab_8_2\\lab_8_2.csproj|d:\\devmaster\\buoi8\\lab_8_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Film.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_3\\Film.cs",
               "RelativeDocumentMoniker": "lab_8_3\\Film.cs",
@@ -74,20 +74,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_3\\Program.cs",
               "RelativeDocumentMoniker": "lab_8_3\\Program.cs",
               "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_3\\Program.cs",
               "RelativeToolTip": "lab_8_3\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:13:09.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T08:13:09.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_2\\Order.cs",
               "RelativeDocumentMoniker": "lab_8_2\\Order.cs",
@@ -95,7 +94,8 @@
               "RelativeToolTip": "lab_8_2\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:03:14.06Z"
+              "WhenOpened": "2024-12-24T08:03:14.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_2\\Program.cs",
               "RelativeDocumentMoniker": "lab_8_2\\Program.cs",
@@ -119,17 +119,18 @@
               "RelativeToolTip": "lab_8_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:02:20.523Z"
+              "WhenOpened": "2024-12-24T08:02:20.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi8\\lab_8_1\\Program.cs",
               "RelativeDocumentMoniker": "lab_8_1\\Program.cs",
               "ToolTip": "D:\\DevMaster\\buoi8\\lab_8_1\\Program.cs",
               "RelativeToolTip": "lab_8_1\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T07:47:49.838Z",
               "EditorCaption": ""
@@ -154,7 +155,7 @@
               "RelativeDocumentMoniker": "lesson_8\\Program.cs",
               "ToolTip": "D:\\DevMaster\\buoi8\\lesson_8\\Program.cs",
               "RelativeToolTip": "lesson_8\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv0wAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv0wAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T12:35:31.81Z",
               "EditorCaption": ""

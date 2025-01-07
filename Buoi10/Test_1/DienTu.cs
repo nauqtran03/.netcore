@@ -16,7 +16,7 @@ namespace Test_1
         }
         public override string ToString()
         {
-            return $"DienTu: {tenSanPham}, Loai: {loaiSanPham}, GiaNhap: {giaNhap}, BaoHanh: {thoiGianBaoHanh} tháng, Gia: {getGia():0,0} VNĐ";
+            return $"\n Ten Dien Tu: {tenSanPham}, Loai: {loaiSanPham}, Gia Nhap: {giaNhap}, Bao Hanh: {thoiGianBaoHanh} tháng, Gia: {getGia():0,0} VNĐ\n";
         }
     }
 }
