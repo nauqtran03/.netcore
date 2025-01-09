@@ -30,6 +30,14 @@
             </div>
         </nav>
     </header>
+    @* @RenderSection("section1") *@
+    @* @Html.Partial("_HeaderPartialView") *@
+    <div class="container">
+        @await Component.InvokeAsync("Category");
+    </div>
+    <div class="container">
+        @await Component.InvokeAsync("Category", new{n = 2});
+    </div>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

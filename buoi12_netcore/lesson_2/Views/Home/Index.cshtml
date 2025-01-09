@@ -1,8 +1,71 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Cach su dung Razor";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@{
+    var total = 10000;
+    var message = "Tran Quang Quan" + " hoc o devmaster ngay " + DateTime.Now.DayOfWeek;
+}
+@{
+    <p>Tu lanh co gia tien la: $ @total</p>
+    <p>Hien thi ra cau lenh message la: @message</p>
+}
+@if(total >10000){
+    <p>Ban la nguoi giau trong top 30%</p>
+}else if(total<= 10000){
+    <p>Ban la nguoi binh thuong</p>
+}else{
+    <p>Ban la nguoi ngheo</p>
+}
+
+@{
+    if (total > 10000)
+    {
+        <p>Ban la nguoi giau trong top 30%</p>
+    }
+    else if (total <= 10000)
+    {
+        <p>Ban la nguoi binh thuong</p>
+    }
+    else
+    {
+        <p>Ban la nguoi ngheo</p>
+    }
+}
+@{
+    for(int i=0; i<10; i++){
+        if( i % 2 == 0){
+            <span class="btn btn-primary"> @i </span>
+        }else{
+            <span class="btn btn-danger"> @i</span>
+        }
+    }
+    <hr></hr>
+    string[] imgs = ["https://images2.thanhnien.vn/528068263637045248/2024/1/25/e093e9cfc9027d6a142358d24d2ee350-65a11ac2af785880-17061562929701875684912.jpg"];
+}
+@foreach(var img in imgs){
+    <img src="@img"/>
+}
+@* @section section1{ *@
+@*     <header> *@
+@*         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3"> *@
+@*             <div class="container-fluid"> *@
+@*                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">lesson_2</a> *@
+@*                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" *@
+@*                         aria-expanded="false" aria-label="Toggle navigation"> *@
+@*                     <span class="navbar-toggler-icon"></span> *@
+@*                 </button> *@
+@*                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between"> *@
+@*                     <ul class="navbar-nav flex-grow-1"> *@
+@*                         <li class="nav-item"> *@
+@*                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a> *@
+@*                         </li> *@
+@*                         <li class="nav-item"> *@
+@*                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> *@
+@*                         </li> *@
+@*                     </ul> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </nav> *@
+@*     </header> *@
+@* } *@
