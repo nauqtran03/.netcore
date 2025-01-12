@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson_2", "lesson_2\lesson_2.csproj", "{C9A9601F-9F90-4FF7-840A-A09747D49F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btvn_bai1", "btvn_bai1\btvn_bai1.csproj", "{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C9A9601F-9F90-4FF7-840A-A09747D49F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A9601F-9F90-4FF7-840A-A09747D49F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A9601F-9F90-4FF7-840A-A09747D49F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
