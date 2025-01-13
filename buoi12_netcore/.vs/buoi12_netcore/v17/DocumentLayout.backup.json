@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\DevMaster\\buoi12_netcore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\views\\shared\\_categorypartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\views\\shared\\_categorypartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +51,64 @@
       "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_productspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_productspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599170A5-F86E-4508-A472-6976B355F89C}|btvn_bai2\\btvn_bai2.csproj|solutionrelative:btvn_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,20 +123,12 @@
       "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\wwwroot\\avatar\\03.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|d:\\devmaster\\buoi12_netcore\\btvn_bai1\\wwwroot\\avatar\\02.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{53428E52-EE2A-4BAD-BE23-F2D761B5C7DE}|btvn_bai1\\btvn_bai1.csproj|solutionrelative:btvn_bai1\\wwwroot\\avatar\\02.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_productspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|solutionrelative:lesson_2\\views\\shared\\_productspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9A9601F-9F90-4FF7-840A-A09747D49F24}|lesson_2\\lesson_2.csproj|d:\\devmaster\\buoi12_netcore\\lesson_2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -102,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,20 +170,162 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "btvn_bai2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "btvn_bai2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:08:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "btvn_bai2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "btvn_bai2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:53:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "btvn_bai2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "btvn_bai2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:40:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "btvn_bai2\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "btvn_bai2\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:30:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_CategoryPartialView.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_CategoryPartialView.cshtml",
+              "RelativeDocumentMoniker": "btvn_bai2\\Views\\Shared\\_CategoryPartialView.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_CategoryPartialView.cshtml",
+              "RelativeToolTip": "btvn_bai2\\Views\\Shared\\_CategoryPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:23:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "btvn_bai2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "btvn_bai2\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:18:58.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "btvn_bai2\\Models\\Product.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\Product.cs",
+              "RelativeToolTip": "btvn_bai2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:14:32.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "btvn_bai2\\Models\\Category.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Models\\Category.cs",
+              "RelativeToolTip": "btvn_bai2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:14:22.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "btvn_bai2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "btvn_bai2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T16:06:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Program.cs",
+              "RelativeDocumentMoniker": "btvn_bai2\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai2\\Program.cs",
+              "RelativeToolTip": "btvn_bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:06:42.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "btvn_bai1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "btvn_bai1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:01:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "btvn_bai1\\Views\\Account\\Profile.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Views\\Account\\Profile.cshtml",
               "RelativeToolTip": "btvn_bai1\\Views\\Account\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-09T16:29:17.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Program.cs",
               "RelativeDocumentMoniker": "btvn_bai1\\Program.cs",
@@ -147,25 +333,23 @@
               "RelativeToolTip": "btvn_bai1\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:26:17.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T16:26:17.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "lesson_2",
+              "DocumentIndex": 28,
+              "Title": "lesson_2.csproj",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\lesson_2.csproj",
               "RelativeDocumentMoniker": "lesson_2\\lesson_2.csproj",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\lesson_2.csproj",
               "RelativeToolTip": "lesson_2\\lesson_2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-09T16:06:40.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T16:06:40.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "btvn_bai1\\Controllers\\HomeController.cs",
@@ -178,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Models\\Account.cs",
               "RelativeDocumentMoniker": "btvn_bai1\\Models\\Account.cs",
@@ -186,12 +370,11 @@
               "RelativeToolTip": "btvn_bai1\\Models\\Account.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:56:08.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T15:56:08.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "03.png - PNG [1280x1280, 32 bit, PNG]",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\wwwroot\\Avatar\\03.png",
               "RelativeDocumentMoniker": "btvn_bai1\\wwwroot\\Avatar\\03.png",
@@ -203,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "02.png - PNG [2000x2000, 32 bit, PNG]",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\wwwroot\\Avatar\\02.png",
               "RelativeDocumentMoniker": "btvn_bai1\\wwwroot\\Avatar\\02.png",
@@ -215,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "btvn_bai1\\Views\\Account\\Index.cshtml",
@@ -228,20 +411,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "btvn_bai1\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "btvn_bai1\\Controllers\\AccountController.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\DevMaster\\buoi12_netcore\\btvn_bai1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "btvn_bai1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBwAAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T15:45:44.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "lesson_2\\Models\\Category.cs",
@@ -254,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\Components\\Category\\Default.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Shared\\Components\\Category\\Default.cshtml",
@@ -262,37 +445,37 @@
               "RelativeToolTip": "lesson_2\\Views\\Shared\\Components\\Category\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T14:33:07.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T14:33:07.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "CategoryViewComponent.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\ViewComponents\\CategoryViewComponent.cs",
               "RelativeDocumentMoniker": "lesson_2\\ViewComponents\\CategoryViewComponent.cs",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\ViewComponents\\CategoryViewComponent.cs",
               "RelativeToolTip": "lesson_2\\ViewComponents\\CategoryViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T14:31:24.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "_ProductsPartialView.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_ProductsPartialView.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Shared\\_ProductsPartialView.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_ProductsPartialView.cshtml",
               "RelativeToolTip": "lesson_2\\Views\\Shared\\_ProductsPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T13:18:59.281Z"
+              "WhenOpened": "2025-01-07T13:18:59.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Models\\Product.cs",
               "RelativeDocumentMoniker": "lesson_2\\Models\\Product.cs",
@@ -305,46 +488,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "_HeaderPartialView.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_HeaderPartialView.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Shared\\_HeaderPartialView.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_HeaderPartialView.cshtml",
               "RelativeToolTip": "lesson_2\\Views\\Shared\\_HeaderPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T13:07:30.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "lesson_2\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T12:58:28.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "lesson_2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T12:48:07.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Shared\\_Layout.cshtml.css",
@@ -352,38 +535,37 @@
               "RelativeToolTip": "lesson_2\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-07T12:48:05.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T12:48:05.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "lesson_2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T12:01:04.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lesson_2\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "lesson_2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T11:50:14.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "lesson_2\\Models\\ErrorViewModel.cs",
@@ -391,12 +573,11 @@
               "RelativeToolTip": "lesson_2\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T11:50:09.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T11:50:09.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\_ViewStart.cshtml",
@@ -404,12 +585,11 @@
               "RelativeToolTip": "lesson_2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T11:50:05.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T11:50:05.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\DevMaster\\buoi12_netcore\\lesson_2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "lesson_2\\Views\\_ViewImports.cshtml",

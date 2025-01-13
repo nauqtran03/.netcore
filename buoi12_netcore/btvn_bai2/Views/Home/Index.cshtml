@@ -1,0 +1,29 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <div id="categoryList">
+            <!-- Render danh mục -->
+            @await Html.PartialAsync("_CategoryPartialView", Model)
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div id="productList">
+            <!-- Danh sách sản phẩm sẽ được load qua AJAX -->
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).on("click", ".category-item", function () {
+        var categoryId = $(this).data("id");
+        var url = '@Url.Action("ProductList", "Product")';
+        $.get(url + "?categoryId=" + categoryId, function (data) {
+            $("#productList").html(data);
+        });
+    });
+</script>

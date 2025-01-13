@@ -1,0 +1,10 @@
+﻿@model IEnumerable<btvn_bai2.Models.Category>
+
+<ul class="list-group">
+    @foreach (var category in Model)
+    {
+        <li class="list-group-item category-item" data-id="@category.Id">
+            @category.Name
+        </li>
+    }
+</ul>
