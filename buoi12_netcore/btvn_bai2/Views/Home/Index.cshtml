@@ -1,29 +1,31 @@
-﻿@model List<Category>
+﻿@model IEnumerable<btvn_bai2.Models.Category>
 @{
     ViewData["Title"] = "Home Page";
+    var a = Model as List<Category>;
 }
 
 <div class="row">
     <div class="col-md-3">
         <div id="categoryList">
             <!-- Render danh mục -->
-            @await Html.PartialAsync("_CategoryPartialView", Model)
+            @await Html.PartialAsync("_CategoryPartialView", a)
         </div>
     </div>
-    <div class="col-md-9">
-        <div id="productList">
-            <!-- Danh sách sản phẩm sẽ được load qua AJAX -->
-        </div>
-    </div>
+    @* <div class="col-md-9"> *@
+    @*     <div id="productList"> *@
+    @*         <!-- Danh sách sản phẩm sẽ được load qua AJAX --> *@
+    @*         @await Html.PartialAsync("_ProductPartialView", Model) *@
+    @*     </div> *@
+    @* </div> *@
 </div>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-    $(document).on("click", ".category-item", function () {
-        var categoryId = $(this).data("id");
-        var url = '@Url.Action("ProductList", "Product")';
-        $.get(url + "?categoryId=" + categoryId, function (data) {
-            $("#productList").html(data);
-        });
-    });
-</script>
+@* <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> *@
+@* <script> *@
+@*     $(document).on("click", ".category-item", function () { *@
+@*         var categoryId = $(this).data("id"); *@
+@*         var url = '@Url.Action("ProductList", "Product")'; *@
+@*         $.get(url + "?categoryId=" + categoryId, function (data) { *@
+@*             $("#productList").html(data); *@
+@*         }); *@
+@*     }); *@
+@* </script> *@

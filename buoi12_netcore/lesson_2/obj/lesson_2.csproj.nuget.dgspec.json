@@ -25,7 +25,7 @@
           "net8.0"
         ],
         "sources": {
-          "D:\\entity": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
