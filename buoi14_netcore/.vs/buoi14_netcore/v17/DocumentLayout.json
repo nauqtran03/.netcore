@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevMaster\\buoi14_netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|d:\\devmaster\\buoi14_netcore\\lesson2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F428F8-255A-43E8-8534-A9508798B031}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|d:\\devmaster\\buoi14_netcore\\lesson1\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|solutionrelative:lesson1\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|d:\\devmaster\\buoi14_netcore\\lesson1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|solutionrelative:lesson1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|d:\\devmaster\\buoi14_netcore\\lesson1\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|solutionrelative:lesson1\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|d:\\devmaster\\buoi14_netcore\\lesson1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|solutionrelative:lesson1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|d:\\devmaster\\buoi14_netcore\\lesson1\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DEB5AC-9C8C-4B6D-8F5B-6A5DEF782901}|lesson1\\lesson1.csproj|solutionrelative:lesson1\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:41:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:38:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "lesson2\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "lesson2\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:37:06.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lesson2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lesson2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:31:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "lesson2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "lesson2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:31:08.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "lesson2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "lesson2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:28:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "lesson2\\Models\\Account.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson2\\Models\\Account.cs",
+              "RelativeToolTip": "lesson2\\Models\\Account.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:07:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "lesson1\\Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "lesson1\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:40:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lesson1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lesson1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:39:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "lesson1\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "lesson1\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:49:29.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "lesson1\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "lesson1\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:17:57.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "lesson1\\Models\\Member.cs",
+              "ToolTip": "D:\\DevMaster\\buoi14_netcore\\lesson1\\Models\\Member.cs",
+              "RelativeToolTip": "lesson1\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:12:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

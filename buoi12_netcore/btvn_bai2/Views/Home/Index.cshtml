@@ -1,22 +1,21 @@
-﻿@model IEnumerable<btvn_bai2.Models.Category>
-@{
-    ViewData["Title"] = "Home Page";
-    var a = Model as List<Category>;
-}
+﻿@* @model HomeViewModel *@
 
 <div class="row">
     <div class="col-md-3">
-        <div id="categoryList">
+        <div id="categoryList"> 
             <!-- Render danh mục -->
-            @await Html.PartialAsync("_CategoryPartialView", a)
+            @* @await Html.PartialAsync("_CategoryPartialView", Model.Categories) *@
+
+             @* @Html.Partial("_CategoryPartialView") *@
         </div>
     </div>
-    @* <div class="col-md-9"> *@
-    @*     <div id="productList"> *@
-    @*         <!-- Danh sách sản phẩm sẽ được load qua AJAX --> *@
-    @*         @await Html.PartialAsync("_ProductPartialView", Model) *@
-    @*     </div> *@
-    @* </div> *@
+       <div class="col-md-9">  
+         <div id="productList">  
+           <!-- Danh sách sản phẩm sẽ được load qua AJAX -->  
+            @* @await Html.PartialAsync("_ProductPartialView", Model.Products) *@
+            @Html.Partial("_ProductPartialView")
+        </div>  
+    </div> 
 </div>
 
 @* <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> *@

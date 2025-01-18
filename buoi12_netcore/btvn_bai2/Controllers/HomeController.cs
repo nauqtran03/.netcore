@@ -11,17 +11,11 @@ namespace btvn_bai2.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-            GetProduct();
-
-        }
-
-        public IActionResult Index()
-        {
-            GetCategory();
-            //GetProduct();
-            return View();
             
+
         }
+
+        
 
         public IActionResult Privacy()
         {
@@ -34,6 +28,39 @@ namespace btvn_bai2.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        public IActionResult Index()
+        {
+            var categories = new List<Category>()
+            {
+                new Category(1, "Quần Áo"),
+                new Category(2, "Túi Xách"),
+                new Category(3, "Đồng Hồ"),
+                new Category(4, "Ti Vi"),
+                new Category(5, "Tủ Lạnh"),
+                new Category(6, "Máy Bơm"),
+                new Category(7, "Quạt Điện"),
+                new Category(8, "Lò Sưởi"),
+            };
+
+                    var products = new List<Product>()
+            {
+                new Product(1, "Bộ đồ Nam", 100000, "Phù hợp cho Nam", 1, new DateTime(2024, 09, 19)),
+                new Product(2, "Bộ đồ Nữ", 100000, "Phù hợp cho Nữ", 0, new DateTime(2024, 09, 12)),
+            };
+
+            // Truyền cả hai danh sách vào ViewModel
+            //var model = new HomeViewModel
+            //{
+            //    Categories = categories,
+            //    Products = products
+            //};
+
+            //return View(model);
+
+            //GetCategory();
+            GetProduct();
+            return View();
         }
         public PartialViewResult GetCategory()
         {

@@ -18,7 +18,7 @@ namespace btvn_bai1.Controllers
             return View();
 
         }
-        [Route("Ho-so-cua-toi", Name = "profile")]
+        //[Route("Ho-so-cua-toi", Name = "profile")]
         public IActionResult Profile(int id)
         {
             List<Account> accounts = new List<Account>
@@ -29,8 +29,8 @@ namespace btvn_bai1.Controllers
                 new Account(4, "Quan4", "Quan4@gmail.com", "0376219424", Url.Content("~/Avatar/04.png"), "Da Nang", "My name is Quan4", 1, new DateTime(2003, 09, 19)),
             };
             Account account = accounts.FirstOrDefault(a => a.Id == id); 
-            ViewBag.account = accounts;
-            return View();
+            //ViewBag.account = account;
+            return View(account);
         }
     }
 }
