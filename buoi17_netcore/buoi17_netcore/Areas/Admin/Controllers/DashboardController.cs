@@ -2,7 +2,7 @@
 
 namespace buoi17_netcore.Areas.Admin.Controllers
 {
-    //[Area("Admin")]
+    [Area("Admin")]
     public class DashboardController : BaseController
     {
         public IActionResult Index()

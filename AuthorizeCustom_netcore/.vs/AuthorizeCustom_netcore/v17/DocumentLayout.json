@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevMaster\\AuthorizeCustom_netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|d:\\devmaster\\authorizecustom_netcore\\authorizecustom_netcore\\authorizecustom_netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91951B21-C27C-4FA8-B912-7B7A1BF1028C}|AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj|solutionrelative:authorizecustom_netcore\\authorizecustom_netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:41:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:40:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:35:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:31:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:29:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:28:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Program.cs",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Program.cs",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:24:02.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:09:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizeCustom_netcore.csproj",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\AuthorizeCustom_netcore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T14:08:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "AuthorizeCustom_netcore\\Models\\Login.cs",
+              "ToolTip": "D:\\DevMaster\\AuthorizeCustom_netcore\\AuthorizeCustom_netcore\\Models\\Login.cs",
+              "RelativeToolTip": "AuthorizeCustom_netcore\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:02:55.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
