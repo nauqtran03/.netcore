@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi21_netcore", "buoi21_netcore\buoi21_netcore.csproj", "{CCB9D4F6-E10C-433D-97BF-06EC107232BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB9D4F6-E10C-433D-97BF-06EC107232BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB9D4F6-E10C-433D-97BF-06EC107232BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB9D4F6-E10C-433D-97BF-06EC107232BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB9D4F6-E10C-433D-97BF-06EC107232BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
