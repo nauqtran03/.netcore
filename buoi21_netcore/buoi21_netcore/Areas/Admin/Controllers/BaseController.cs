@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace buoi21_netcore.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class BaseController : Controller, IActionFilter
     {
         public override void OnActionExecuted(ActionExecutedContext context)
@@ -15,7 +16,7 @@ namespace buoi21_netcore.Areas.Admin.Controllers
                         {
                             Controller = "Login",
                             Action = "Index",
-                            Areas = "Admins",
+                            Areas = "Admin",
                         }));
             }
             base.OnActionExecuted(context);

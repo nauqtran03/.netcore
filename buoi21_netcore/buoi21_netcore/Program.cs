@@ -12,7 +12,7 @@ namespace buoi21_netcore
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            var connectString = builder.Configuration.GetConnectionString("DBContext");
+            var connectString = builder.Configuration.GetConnectionString("DBConnect");
             builder.Services.AddDbContext<DevxuongmocContext>(op=>op.UseSqlServer(connectString));
 
             builder.Services.AddDistributedMemoryCache();
@@ -43,7 +43,7 @@ namespace buoi21_netcore
             app.UseAuthorization();
             app.UseAuthentication();
             app.UseSession();
-            app.MapRazorPages();    
+            //app.MapRazorPages();    
             app.MapControllerRoute(
                 name: "areas",
                 pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");

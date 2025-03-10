@@ -3,9 +3,10 @@ using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace buoi17_netcore.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class BaseController : Controller, IActionFilter
     {
-        [Area("Admin")]
+        
         public override void OnActionExecuted(ActionExecutedContext context)
         {
             if (context.HttpContext.Session.GetString("AdminLogin") == null)

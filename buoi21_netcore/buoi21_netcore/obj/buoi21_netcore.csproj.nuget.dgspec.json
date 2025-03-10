@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj": {}
+    "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj": {}
   },
   "projects": {
-    "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj": {
+    "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
+        "projectUniqueName": "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
         "projectName": "buoi21_netcore",
-        "projectPath": "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
+        "projectPath": "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
         "packagesPath": "C:\\Users\\quant\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\obj\\",
+        "outputPath": "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,9 +9,9 @@ namespace buoi21_netcore.Areas.Admin.Controllers
     [Area("Admin")]
     public class LoginController : Controller
     {
-        private readonly DatabaseFirstContext _context; 
+        private readonly DevxuongmocContext _context; 
 
-        public LoginController(DatabaseFirstContext context)
+        public LoginController(DevxuongmocContext context)
         {
             _context = context;
         }
@@ -29,9 +29,9 @@ namespace buoi21_netcore.Areas.Admin.Controllers
                 return View(model);
             }
 
-            var passwordHash = GetSha256Hash(model.PassWord);
+            var passwordHash = GetSha256Hash(model.Password);
 
-            var login = _context.Adminusers.FirstOrDefault(u => u.UserName == model.UserName && u.PassWord == passwordHash);
+            var login = _context.AdminUsers.FirstOrDefault(u => u.Account == model.UserName && u.Password == passwordHash);
 
             if (login != null)
             {

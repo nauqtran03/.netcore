@@ -7,6 +7,6 @@ namespace buoi21_netcore.Models.DBModel
         [Required(ErrorMessage = "UserName khong duoc de tron")]
         public string UserName { get; set; }
         [Required(ErrorMessage = "Password khong duoc de tron")]
-        public string PassWord { get; set; }
+        public string Password { get; set; }
     }
 }

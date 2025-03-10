@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("buoi21_netcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c11bde22a7698b524811069c5882e887e19885b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("buoi21_netcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("buoi21_netcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

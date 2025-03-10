@@ -9,8 +9,8 @@ using buoi21_netcore.Models.DBModel;
 
 namespace buoi21_netcore.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    public class ProductImagesController : Controller
+    //[Area("Admin")]
+    public class ProductImagesController : BaseController
     {
         private readonly DevxuongmocContext _context;
 

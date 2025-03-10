@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5saMbhKlvY=",
+  "dgSpecHash": "0oXv5pm4QaQ=",
   "success": true,
-  "projectFilePath": "D:\\Hoc_Net_Thay_Nam\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
+  "projectFilePath": "D:\\DevMaster\\buoi21_netcore\\buoi21_netcore\\buoi21_netcore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quant\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\quant\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
